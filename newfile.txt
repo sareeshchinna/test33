@@ -1,0 +1,2 @@
+jj
+new git configuration to othere folder 
